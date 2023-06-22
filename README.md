@@ -15,9 +15,8 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ## Feito por:
 
-### Joana Santos
+### Gabriel Nogueira
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
 
 
 
